@@ -23,3 +23,9 @@ Working example:
 ````python
 python musical_lock.py test.wav 3 293.63 440.00 293.66 392.00
 ````
+
+## Todo
+
+* Add capacity to record sound files on the fly using [PyAudio](http://people.csail.mit.edu/hubert/pyaudio/)
+* Add ability to unlock a secret through a musical input
+* Improve UI to make more presentable
